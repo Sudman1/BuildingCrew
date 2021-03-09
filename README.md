@@ -18,7 +18,9 @@ As stated previously, the user interface borrows heavily from the `Plaster` proj
 
 ## Installation
 
-Install from the PowerShell Gallery (not yet released)
+Install from the PowerShell Gallery
+
+> Note: This module is not yet released to the Gallery.
 
 ```powershell
 Install-Module BuildingCrew
