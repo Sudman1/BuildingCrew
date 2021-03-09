@@ -14,7 +14,7 @@ As stated previously, the user interface borrows heavily from the `Plaster` proj
 - In addition to the `text`, `choice`, and `multichoice` prompt types, `BuildingCrew` adds a `textarray` type that continues to prompt until no more input is received.
   - Additionally, `subprompt`s can prompt based on information received from previous answers
 - The default templating engine is [Scriban](https://github.com/scriban/scriban), but others can be used if desired.
-  - Any custom template engine control commands will be stored in the [blueprint.ps1](#The_Blueprint) file.
+  - Any custom template engine control commands will be stored in the [blueprint.ps1](#the-blueprint) file.
 
 ## Installation
 
